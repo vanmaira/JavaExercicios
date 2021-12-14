@@ -29,7 +29,7 @@ public class ProdutoTeste {
 
         double precoFinal4 = p2.precoComDesconto(0.3);
         System.out.printf("Preço com desconto: R$%.2f \n", precoFinal4);
-        System.out.println("socorro");
+        System.out.println("socorro, Deus!");
 
 
     }
